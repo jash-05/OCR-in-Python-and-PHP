@@ -14,4 +14,6 @@ Requirements for running python_ocr:
 3. Install pytesseract
 
 
-Output of PHP form:
+Output of PHP form is included in the php_webpage folder
+Output of PHP ocr implementation is included in the php_ocr folder
+Output of the Python ocr implementation is included in the python_ocr folder
